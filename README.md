@@ -5,12 +5,12 @@ Homebrew formulae to install [latchset/pkcs11-provider](https://github.com/latch
 ## How to install
 
 ```bash
-brew tap avoidik/pkcs11-provider
+brew tap HathorNetwork/homebrew-pkcs11-provider
 brew install pkcs11-provider
 ```
 
 ## How to remove
 
 ```bash
-brew untap avoidik/pkcs11-provider
+brew untap HathorNetwork/homebrew-pkcs11-provider
 ```
